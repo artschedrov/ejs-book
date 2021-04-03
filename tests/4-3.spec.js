@@ -1,5 +1,5 @@
 const {assert} = require('chai');
-const {arrToList, listToArr, prepend, nth} = require('./4-3.js');
+const {arrToList, listToArr, prepend, nth} = require('../4-3.js');
 
 describe('test functions for creating list', function() {
   it('test arrToList', function() {
