@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -t 2000 ./4-3.spec.js",
-    "test5": "mocha -t 2000 ./5-2.spec.js"
+    "test": "mocha -t 2000 ./tests/4-3.spec.js",
+    "test5": "mocha -t 2000 ./tests/5-2.spec.js",
+    "test6": "mocha -t 2000 ./tests/6.spec.js"
   },
   "repository": {
     "type": "git",
